@@ -188,6 +188,12 @@ body, .bg-gameboy {
     text-align: center;
 }
 
+img{
+    border-radius: 20px;
+    height:140px ;
+    width:220px ;
+}
+
 /* ==========================================
    5. CONTACT & INPUTS
    ========================================== */
