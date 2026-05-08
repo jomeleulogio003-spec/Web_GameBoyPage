@@ -159,6 +159,7 @@ body, .bg-gameboy {
 }
 
 .mini-screen {
+    color: black;
     background-color: #ffffff;
     width: 100%;
     height: 55px;
@@ -186,12 +187,6 @@ body, .bg-gameboy {
     color: #ffffff;
     margin-bottom: 2rem;
     text-align: center;
-}
-
-img{
-    border-radius: 20px;
-    height:140px ;
-    width:220px ;
 }
 
 /* ==========================================
